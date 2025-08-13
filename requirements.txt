@@ -1,0 +1,10 @@
+streamlit
+python-docx
+random
+re
+json
+pandas
+openai
+python-dotenv
+os
+tiktoken
